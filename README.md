@@ -1,4 +1,4 @@
-#  Школа серфинга Wave
+#  Школа серфинга 
 
   [ (Учебный проект) Wave-Landing-Page-Adaptive-Layout](https://vetosy.github.io/Wave/)
 - Использование BEM методологии
